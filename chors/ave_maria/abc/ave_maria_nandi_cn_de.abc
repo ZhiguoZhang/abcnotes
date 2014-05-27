@@ -1,0 +1,96 @@
+X:0
+T:圣母颂
+T:(Ave Maria)
+C:(男低 舒伯特 曲)
+M:4/4
+K:Bb
+L:1/4
+Q:30
+%abc-charset utf-8
+%%measurefirst 3
+%%measurenb	0      
+%%barsperstaff 2
+% 3 - 4
++p++<(+D> D/2D/4+<)++>(+(F E)+>)+						| D2 E- E/2E/2 		| 
+w:啊， 圣 玛 丽 											| 亚！ 温 柔的 母 		|
+w:A ve Ma-i												| a! Jung - frau 	|
+% 5 - 6
+ D z/2 F/2 ^F/2>F/2 A/4G/4G/4G/4              			| G =E/2>+upbow+E/2 ^F/2>F/2 (3(F/4F/4)F/4 (3(F/4F/4)F/4 	|
+w:亲！ 请 你 听 一 位 少 女 								| 恳 求， 在 这 荒 凉 - 的 岩 - 石 								|
+w: mild, er- hö- re ei-ner Jung frau					| Fle- hen, aus die- sem Fel - sen star rund				|
+% 7 - 8
+ D> =E F/2> F/2 (3(F/4F/4)F/4 (3(F/4F/4)F/4   			| (F =E) F z/2 F/2 	|
+w:上， 我的 控 诉 飞 - 向 你 - 的 							| 身 - 旁。 我 		|
+w: wild soll mein Ge- bet - zu- dir - hin				| we - hen, Wir 	|
+% 9 - 10
+ F/2>F/2 F/4>F/4E/4>E/4 D/2D/2 z/2 D/2 					| E/2> E/2 (3(E/4E/4)E/4 (3(E/4E/4E/4) D z/2 D/2 |
+w:睡 - 到 明 天早 晨 醒 来， 而 							| 人 们 仍 然 是 这 样 残 忍。 啊，|
+w:schla- fen si-cher bis zum Mor-gen, ob				| Men- schen noch - so grau - sam sind. O |
+% 11 - 12
+ F/2>F/2 ^F/4>F/4 (3(F/4F/4)F/4 G/2G/2 z/2>G/2 			| E/2>E/2 (3=E/4E/4E/4 (3E/4E/4E/4 (=F _E/2) z/2 	|
+w:圣 母 要 将女 儿 指 引， 啊 								| 母 亲 我 是 个 可 怜 的 人							|
+w:Jung- frau, sihe' der Jung - frau Sor gen, o, 		| Mut- ter, hör' - ein bit - tend Kind!				|
+% 13 - 14
+D> D/2D/4 (F E) 										| D z z2 	|
+w:啊， 圣 玛 丽 											| 亚！		|
+w:A ve Ma-i												| a!		|
+% 15 - 16
+ z4 													| (D =E F/2D/2 C |
+w:														| hm - - - |
+w:														| hm - - - |
+% 17 - 18
+D>) (B, C E 											| D F/2F/2 ^F G) |
+w:hm - - - 												| - - - - |
+w:hm _ _ _  											| _ _ _ _ |
+% 19 - 20
+(=E A,/2) z/2 A,- A,/2 z/2 	   					 		| (B,2 C =B, |
+w:hm - hm - 											| hm - - - |
+w:hm _ hm _ 											| hm _ _ _ |
+% 21 - 22
+C2 F,>) z										 		| F/2>F/2 F/4>F/4E/4>E/4 D/2D/2 z/2 D/2 	|
+w:hm - 													| 梦 里 我 看 见 你 微 笑， 我 					|
+w:hm _ 													| lä- chelst, Ro- sen düf- te we- hen in 	|
+% 23 - 24
+E/2>E/2 (3 (E/4E/4)E/4 (3 E/4E/4E/4 D z/2 D/2  	 		| F/2>F/2 ^F/4>F/4 (3 (F/4F/4)F/4 +f++p+ G/2G/2 z/2>G/2 |
+w:仿 佛 闻 - 到 玫 瑰 芳 香。 啊， 							| 圣 母 我 要 向 - 你 倾 诉， 我 							|
+w:die- ser dump - fen Fel - senk luft. O 				| Mut- ter, hö- re Kin - des Fle- hen, o 				|
+% 25 - 26
+E/2>E/2 (3 (=E/4E/4)E/4 (3 E/4E/4E/4 (=F _E/2) z/2 		| (D =E F/2D/2 C |
+w:一 片 赤 诚 的 少 女 的 心! 								| hm _ _ _ |
+w:Jung- frau, ei - ne Jung - frau ruft!					| hm _ _ _ |
+% 27 - 28
+B,)	z z4												| z4 |
+w:hm - 													|    |
+w: _ 													|    |
+% 29 - 30
+D> D/2D/4 (F E)											| D z (E E/2)E/2 	|
+w:啊， 圣 玛 丽 											| 亚！  纯 洁的 母 	|
+w: A- ve Ma- ri  										| a! Rei - ne 		|
+% 31 - 32
+D z/2 d/2 ^F/2>F/2 A/4G/4G/4G/4 						| G =E/2>+upbow+E/2 ^F/2>F/2 (3 (F/4F/4)F/4 (3 (F/4F/4)F/4 	|
+w:亲！ 世 上 的 一 切 鬼 怪 								| 妖 精  纷 纷 -  逃 - 走 无 - 踪 								|
+w:Magd!	Der Er-de und der Luft Dä-						| mo- nen, von dei- nes Aug - es Huld - ver- 				| 
+% 33 - 34
+D> =E F/2>F/2 (3(F/4F/4)F/4 (3(F/4F/4)F/4   			| (F =E) F z	|
+w:影， 我们 再 也 不 - 会 受 - 到 							| 欺 - 凌。  		|
+w:jägt, sie kön- nen hier - nicht  bei - uns			| woh - nen.  	|
+% 35 - 36
+A/2>A/2 A/4>A/4A/4>A/4 F/2F/2 z/2 F/2 					| A/2>A/2 (3 (A/4A/4)A/4 (3 A/4A/4A/4 B z/2 G/2 |
+w:为， 你 对 我 们 最 温 暖， 我 							| 们 都 得 - 到 你 的 爱 情;  啊， 					|
+w:woll'n uns still den Schick- sal beu- gen, da 		| uns dein heil' - ger Tr- o- st anweht; der 	|
+% 37 - 38
+F/2>F/2 ^F/4>F/4 (3(F/4F/4)F/4 +f++p+ G/2G/2 z/2> G/2 	| E/2>E/2 (3(=E/4E/4)E/4 (3(E/4E/4)E/4 (=F _E/2) z/2 |
+w:圣 母， 我 虔 诚 - 地 恳 请, 啊， 							| 母 亲 愿 - 你 永 爱 我 们 |
+w:Jung- frau wol- le hold - dich nei- gen, dem			| Kind, das für - den Va - ter fleht!
+% 39 - 40
+ D> D/2D/4 (F E) 										| D z (D F |
+w: 啊， 圣 玛 丽 											| 亚！ 啊! - |
+w: A, ve Ma-ri											| a! 	A! - |
+ % 41 - 42
+ E2 D2													| F2 (B,2 |
+w: - | - |
+w: - | - |
+ % 43
+  +fermata+ B,4)) |
+w: - |
+w: - |
