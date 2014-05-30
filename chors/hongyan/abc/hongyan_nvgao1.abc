@@ -1,0 +1,65 @@
+X:0
+T:鸿雁
+T:(无伴奏合唱)
+C:(Soprano I)
+M:4/4
+K:F
+L:1/4
+Q:66
+%abc-charset utf-8
+%%measurefirst 1
+%%measurenb	0      
+% 1 - 6
+"深情的慢板"z4				| z2 +pp+c (d/2f/2)			| d4 						| d (c/2A/2) (F/2G/2)(c/2A/2)	| G4		 				| c (d/2f/2) d2- 				|
+w: 			 				| 天 空 						| 上							| 对 对 - 排 - 成					| 行，		 				| 江 水 长						|
+% 7 - 12
+d A G F						| A F/2D/2 C/2D/2 A 		| +fermata+ {F} D4 			| z2 +p+(A c/2d/2) 				| c2 (A/2c/2)(d/2f/2) 		| d4-						 	|
+w: - 秋 草 黄，				| 草 原 上 琴 声 忧			| 伤。						| 鸿  							| 雁 向 - 南 - 	 			| 方，				 			|
+% 13 - 17
+d d c G						| z2 (A/2c/2)(d/2f/2)		| d2 (c/2d/2)(A/2F/2) 		| F4- 				 	 		| F F/2G/2	(A/2c/2)	d	|
+w: - 芦 苇 荡。 				| 天 - 苍 	 				| 茫， 雁 - 何  	 			| 往， 							| - 北 方 家 - 乡。			|
+% 18 - 21
+c (d/2f/2) d2- 				| d A G F 					| "poco rit."d F/2G/2 A/2A/2 A			| +fermata+ +>(+{c} d4+>)+		||\
+w: 天 苍 - 茫， 				| - 雁 何 往， 				| 心 中 是 北 方 家 			| 乡。 							||
+Q:1/8=156
+M:6/8
+L:1/8
+% 22 - 23
+"不太快的小快板"+p+ z +accent+.[D2F2] z .[DF] z  	| z .[DF].[DF] z .[DF] 	z		|
+w: 嘣 嘣								| 嘣 嘣 嘣 						|
+% 24 - 29
+z +accent+.[D2F2] z .[DF] z 		| z .[DF].[DF] z .[DF] 	z		| z +accent+.[D2F2] z .[DF] z 		| z .[DF].[DF] z .[DF] 	z			| z +accent+.[D2F2] z .[DF] z 		| z .[DF].[DF] z .[DF] z	|
+w: 嘣 嘣 							| 嘣 嘣 嘣 						| 嘣 嘣								| 嘣 嘣 嘣 							| 嘣 嘣 								| 嘣 嘣 嘣 					|
+% 30 - 34
+z +accent+.[D2F2] z .[DF] z			| z .[DF].[DF] z .[DF] 	z		| +mp+(AFD) C3						| (cd)f d3 							| (dc)A (F/2G/2)(cA)				|
+w: 嘣 嘣 							| 嘣 嘣 嘣 						| 鸿 - - 雁							|  北 - 归 还							| 带 - 上 我 的 思  					|
+% 35 - 39
+G6									| (cd)f d3						| (G/2A/2)(FD) C3					| AFD (CD)A 						| {F}D6- 							|
+w: 念。 								|  歌 - 声 远，					|  琴 - 声 - 颤，						| 草 原 上 春 - 意					|  暖 								|
+% 40 - 44
+D3 +mf+(cAG) 						| F3 (AG)F 						| D6 								| ccd e(+uppermordent+dc) 			| A3 (A/2c/2)(df)					|
+w:-  鸿 	 							| 雁 向 - 苍	 					| 天，								| 天 空 有 多 遥	  					| 远。 酒 - 喝						|
+% 45 - 49
+d3 (A/2c/2)(df) 					| d6-							| d6 								| (cd)f d3-							| d3 G(Ac)			 				|
+w:  干， 再 - 斟  					| 满，							| - 								| 酒 - 喝 干，						| - 再 斟							|
+% 50 - 51
+d6									| A(GF) (F/2G/2)(Ac)			|\
+w: 满，								| 今 夜 - 不 醉 不  				|
+M:4/4
+L:1/4
+% 52
++<(+d4+<)+ 	||\
+w: 还。		||
+K:Bb
+% 53 - 54
++f+ (d B/2G/2) F2 			| f (g/2b/2) g2		| 
+w: 鸿 - - 雁					| 向 苍 - 天，		|
+% 55 - 59
+g f/2d/2 (B/2c/2)(f/2c/2)	| c4			 	| B d (cg) 	 			| (c/2d/2)(B/2G/2)	F2				| d (B/2G/2) F/2G/2(G/2d/2)		|
+w: 天 空 有 多 遥				| 远。 		 		| 酒 喝 干，				| 再 - 斟 - 满，						| 今 夜 - 不 醉 不 				|
+% 60 - 63
+{B}G4						| +ff++accent++tenuto+f (g/2b/2) +fermata++accent++tenuto+g2 	| +p+ (c/2d/2)(B/2G/2) +fermata+F2 	| d (B/2G/2) F/2G/2(G/2d/2) |\
+w: 还。	 					| 酒 喝 - 干，													| 再 斟 - 满，						| 今 夜 - 不 醉 不			|
+% 64 - 65
++>(+{B}G4- 					| +fermata++>)+G4 	|]
+w: 还   						| -					|]

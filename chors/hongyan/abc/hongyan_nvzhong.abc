@@ -10,7 +10,7 @@ Q:66
 %%measurefirst 1
 %%measurenb	0      
 % 1 - 6
-+pp+ (A F/2D/2) C2-				| C2> z2 					| z4 						| A A D F 						| G4 						| F A (G F) 		|
+"深情的慢板"+pp+ (A F/2D/2) C2-	| C2> z2 					| z4 						| A A D F 						| G4 						| F A (G F) 		|
 w: 鸿 - - 雁 					| 							|							| 对 对 排 成 					| 行， 						| 江 水 长			|
 % 7 - 12
 (G/2A/2)(F/2D/2) C2 			| A F/2D/2 C/2D/2 A 	 	| {F}+fermata+D4 			| +p+[F2A2]> [F2A2]				| [F2A2]> [F2A2]			| [F4A4]- 			|
@@ -18,16 +18,18 @@ w: 秋 - 草 - 黄，					| 草 原 上 琴 声 忧			| 伤。						| 鸿  雁 	
 % 13 - 17
 [FA] [FA] [E/2(G/2][D/2)F/2] [CE]	| [F2A2]> [F2A2]				| [F2A2] [FA]	(F/2E/2)	| D4-			 		| D F/2G/2 (A/2F/2) D		|
 w: - 芦 苇 - 荡。 					| 天 苍  					| 茫， 雁 何 						| 往，					| - 北 方 家 - 乡。			|
-% 18 - 22
-F A (G F)	 						| (G/2A/2)(F/2D/2) C2		| D F/2G/2 A/2A/2(G/2F/2)	| +fermata+ +>(+{F} D4+>)+	||\
-w: 天 苍 茫， 						| 雁 - 何 - 往， 				| 心 中 是 北 方 家 			| 乡。 						||
+% 18 - 21
+F A (G F)	 						| (G/2A/2)(F/2D/2) C2		| "poco rit."D F/2G/2 A/2A/2(G/2F/2)	| +fermata+ +>(+{F} D4+>)+	||\
+w: 天 苍 茫， 						| 雁 - 何 - 往， 				| 心 中 是 北 方 家 						| 乡。 						||
+Q:1/8=156
 M:6/8
 L:1/8
-z6 | z6	|
-w: | 	|
+% 22 - 23
+"不太快的小快板" z6 	| z6	|
+w: 					| 		|
 % 24 - 29
-(D3- DFG	| A2 c A2 G | F2 A G2 F | D2 C A,3)	| (D3- DFG	| A2 d A2 G |
-w: 			| 			| 			| 			| 			| 			|
+"口哨(类似呼麦)"(D3- DFG	| A2 c A2 G | F2 A G2 F | D2 C A,3)	| (D3- DFG	| A2 d A2 G |
+w: 						| 			| 			| 			| 			| 			|
 % 30 - 34
 F2 A DCD 	| F6)	| z +accent+.[F2A2] z [FA] z 	| z +accent+.[FA].[FA] z [FA] z		| z +accent+.[F2A2] z [FA] z 	|
 w: 			| 		| 嘣  嘣							| 嘣 嘣 嘣 							| 嘣 嘣							|
@@ -40,21 +42,23 @@ w:鸿 雁 向 苍 天，						| 鸿 雁 向 苍 天，					| 天 空 有 多 遥
 % 45 - 49
 .[FA].[FA].[FA] .[FA].[FA].[FA]		| .[FA] z .[FA] .[FA] z .[FA]	| A(FD) CDA							| A3 FGA							| (G/2A/2)(FD) C3	 				|
 w:再 斟 满，再 斟 满，					| 今 夜 不 醉  					| 今 夜 不 醉 不  					| 还。 酒 喝 干，						| 再 - 斟 - 满，						|
-% 50 - 54
+% 50 - 51
 A(FD) (CDA)							| {F}D6- 						|\
 w:今 夜 - 不 醉 不  					| 还。 							|
 M:4/4
 L:1/4
-D +<(++accent+F/2+accent+G/2 +accent+A +accent+c+<)+ 	||\
-w: - 不 醉 不 还。											||
+% 52
+"poco rit."D +<(++accent+F/2+accent+G/2 +accent+A +accent+c+<)+ 	||\
+w: - 不 醉 不 还。													||
 K:Bb
-+f+ (d B/2G/2) F2 					| B B B2 |
+% 53 - 54
+"稍慢 宽广地"+f+ (d B/2G/2) F2 		| B B B2 	|
 w: 鸿 - 雁 							| 向 苍 天，	|
 % 55 - 59
 G G/2G/2 G B 						| (c B) A G 					| F (G/2B/2) G2- 							| G D C B,							| D D D/2D/2(D/2F/2)	|
 w: 天 空 有 多 遥						| 远。- 遥 远。 					| 酒 喝 - 干，								| - 再 斟 满，						| 今 夜	不 醉 不			|
 % 60 - 63
-{F} G4								| +ff++accent++tenuto+B +accent++tenuto+B +fermata++accent++tenuto+B2	 	| +p+ G C +fermata+^C2 				| D2 D2-				|\
+{F} G4								| "慢"+ff++accent++tenuto+B +accent++tenuto+B +fermata++accent++tenuto+B2	| +p+ G C +fermata+^C2 				| "rit."D2 D2-			|\
 w: 还。 								| 酒 喝 干，																	| 再 斟 满，							| 今 夜					|
 % 64 - 65
 D +>(+C D F+>)+ | +fermata+=E4 	|]
