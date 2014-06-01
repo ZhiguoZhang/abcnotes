@@ -1,0 +1,38 @@
+X:0
+T:拨弦波尔卡
+T:(混声无伴奏合唱)
+C:(Bass)
+M:2/4
+K:F
+L:1/8
+%abc-charset utf-8
+%%measurefirst 1
+%%measurenb	0      
+% 1 - 6
+"Allegretto"+f+C, z z +pp+"sempre Staccato"E, 	| F,F, z2 		| +f+C, z z +p+F, 	| G,G, z2 		| G,, z C, z 	| F,, z A,, z 	|
+% 7 - 12
+G,, z C, z 		| F,, z A,, z 	| G,, z C, z 	| F,, z A,, z 	| G,, z C, z 	| F,C, F, z 	|
+% 13 - 18
+=B,, z G,, z 	| C, z  z2 		| F, z z2 		| C, z z2 		| =B,, z G,, z 	| C, z z2 		|
+% 19 - 24
+F, z F, z 		| C, z z2 		| C,C, C, z 	| C,C, C, z 	| C, z C, z 	| C, z z2 		|
+% 25 - 30
+G,, z C, z 		| F,, z A,, z 	| G,, z C, z 	| F,, z A,, z 	| G,, z C, z 	| F,, z A,, z 	|
+% 31 - 32
+G,, z C, z 		+coda+| F,C, F, z 	|\
+K:Bb
+% 33 - 36
+|:B, z z2 		| A, z z2 		| F, z z2 		| B, z z2 		|
+% 37 - 40
+G, z G, z 		|1 C z z2 		| F, z F, z 	| B,F, B,, z 	:|2 E, z z2 	| F, z F, z 	| B,F, B, z 	|
+% 41 - 45
+|:+ff+B,, z B,, z 	| B,,B,, B,, z 	| B, z B,, z 	| E,E, E, z 	| z2 z =B, 		|
+% 46 - 48
+_B,A, _A,G, 		|1 F, z F, z 	| B,,B,, B,, z 	:|2 F, z F, z 	| B,B, B, z +coda++D.C.+||\
+K:F
+% 49
+"(Coda)"F,A, F, z 	|
+% 50 - 56
+z2 z E, 		| F,^C, D,=B,, 		| C, z B,, z 	| A,, z F,, z 	| z2 z E, 	| F,^C, D,=B,, | C, z C, z 		|
+% 57 - 63
+F, z C, z 		| F, z C, z 		| F, z z2 		| z F,, A,,C, 	| F, z z2	|+p+ _D, z +fermata+ z2 	|+f+ [F,,F,] z z2 |
