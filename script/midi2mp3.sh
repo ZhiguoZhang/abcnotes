@@ -10,7 +10,7 @@ if [[ -z "${FILE}" ]] ; then
 fi
 MP3FILE=${FILE%%.mid}.mp3
 WAVFILE=${FILE%%.mid}.wav
-fluidsynth -F ${WAVFILE} /usr/share/sounds/sf2/FluidR3_GM.sf2 ${FILE} &&
+fluidsynth --gain=5  -F ${WAVFILE} /usr/share/sounds/sf2/FluidR3_GM.sf2 ${FILE} &&
 lame --preset standard ${WAVFILE} ${MP3FILE} &&
 rm ${WAVFILE} &&
 mv ${MP3FILE} ../mp3/
